@@ -1,0 +1,17 @@
+*{
+    background-color: black;
+}
+
+h1{
+    align-content: center;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 20%;
+    padding-left: 25%;
+}
+
+h2{
+    align-content: center;
+    padding-top: 10%;
+    padding-left: 40%;
+}
